@@ -1,8 +1,7 @@
 # 📖 Minimalist Book Manager API
 
 ## Introduction
-This is a starter repository for the Minimalist Book Manager API demonstrating the structure for Externalised Configuration using Application.Properties and Spring Profiles and
-providing examples of H2 In-Memory Database and MySQL Database connections.
+This is a starter repository for the Minimalist Book Manager API use of SpringFox and SpringFox Swagger UI to produce Swagger API documentation.
 
 ### Pre-Requisites
 - Java SE Development Kit 11
@@ -11,6 +10,8 @@ providing examples of H2 In-Memory Database and MySQL Database connections.
 ### Technologies & Dependencies
 - Spring Boot
 - Spring Web
+- SpringFox 
+- SpringFox Swagger UI
 - H2 Database
 - mysql-connector-java
 - Lombok
